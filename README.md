@@ -11,7 +11,7 @@
 
 ## Libraries
 
-
+- [LoRaArduino](https://github.com/lupyuen/LoRaArduino) - Arduino code for connecting to LoRa IoT gateway at Temasek Polytechnic 
 
 ## License
 
