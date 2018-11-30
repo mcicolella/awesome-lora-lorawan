@@ -7,12 +7,23 @@
 ### Table of Contents
 
 - [Libraries](#libraries)
+- [Presentations](#presentations)
+- [Products](#products)
+- [Tutorials](#tutorials)
 
 
 ## Libraries
 
 - [DeviceHive LoRa gateway](https://github.com/devicehive/lora-gateway) - This project implements LoRa gateway using DeviceHive cloud service
 - [LoRaArduino](https://github.com/lupyuen/LoRaArduino) - Arduino code for connecting to LoRa IoT gateway at Temasek Polytechnic 
+
+
+## Presentations
+
+## Products
+
+## Tutorials
+
 
 ## License
 
