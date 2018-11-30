@@ -7,6 +7,7 @@
 ### Table of Contents
 
 - [Libraries](#libraries)
+- [Master Thesis](#master-thesis)
 - [Presentations](#presentations)
 - [Products](#products)
 - [Tutorials](#tutorials)
@@ -16,6 +17,11 @@
 
 - [DeviceHive LoRa gateway](https://github.com/devicehive/lora-gateway) - This project implements LoRa gateway using DeviceHive cloud service
 - [LoRaArduino](https://github.com/lupyuen/LoRaArduino) - Arduino code for connecting to LoRa IoT gateway at Temasek Polytechnic 
+
+
+## Master Thesis
+
+- [LoRaWAN Gateway and IoT Low-Cost Mote Prototype](http://wpd.ugr.es/~jorgenavarro/thesis/2017_TFG_AngelGuzmanMartinez.pdf) -  Angel Guzman-Martinez, School of Informatics and Telecommunications Engineering Granada, 2017 (PDF)
 
 
 ## Presentations
