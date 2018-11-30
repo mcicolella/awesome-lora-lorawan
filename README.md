@@ -24,6 +24,7 @@
 
 ## Tutorials
 
+- [From zero to LoRaWAN in a weekend](https://github.com/ttn-zh/ic880a-gateway/wiki) - Reference setup for The Things Network gateways based on the iC880a USB concentrator with a Raspberry Pi host
 
 ## License
 
