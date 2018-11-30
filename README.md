@@ -27,6 +27,7 @@
 - [Building a Raspberry Pi Powered LoRaWAN Gateway](https://www.rs-online.com/designspark/building-a-raspberry-pi-powered-lorawan-gateway) - Using a Raspberry Pi 2 + iC880A to build the first gateway for Things Network Calderdale
 - [Dragino LoRa shield](http://wiki.dragino.com/index.php?title=Lora_Shield) - Wiki of Dragino LoRa shield
 - [From zero to LoRaWAN in a weekend](https://github.com/ttn-zh/ic880a-gateway/wiki) - Reference setup for The Things Network gateways based on the iC880a USB concentrator with a Raspberry Pi host
+- [Use Lora Shield and RPi to Build a LoRaWAN Gateway](https://www.instructables.com/id/Use-Lora-Shield-and-RPi-to-Build-a-LoRaWAN-Gateway/) - 
 
 ## License
 
