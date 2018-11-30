@@ -37,8 +37,8 @@
 
 ## Contributing
 
-Please, read the [Contribution Guidelines](https://github.com/mcicolella/awesome-emulators-simulators/blob/master/contributing.md) before submitting your suggestion.
+Please, read the [Contribution Guidelines](https://github.com/mcicolella/lora-lorawan/blob/master/contributing.md) before submitting your suggestion.
 
-Feel free to [open an issue](https://github.com/mcicolella/awesome-emulators-simulators/issues) or [create a pull request](https://github.com/mcicolella/awesome-emulators-simulators/pulls) with your additions.
+Feel free to [open an issue](https://github.com/mcicolella/awesome-lora-lorawan/issues) or [create a pull request](https://github.com/mcicolella/awesome-lora-lorawan/pulls) with your additions.
 
 :star2: Thank you!
