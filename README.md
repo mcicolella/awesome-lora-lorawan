@@ -22,6 +22,7 @@
 
 ## Master Thesis
 
+- [Development of an open-source gateway and network server for "Internet of Things" communications based on LoRaWAN technology](http://vlsi.diet.uniroma1.it/downloads/Thesis_Allahparast.pdf) - Soroush Allahparast, Università di Roma "La Sapienza", 2018 (PDF)
 - [LoRaWAN Gateway and IoT Low-Cost Mote Prototype](http://wpd.ugr.es/~jorgenavarro/thesis/2017_TFG_AngelGuzmanMartinez.pdf) -  Angel Guzman-Martinez, School of Informatics and Telecommunications Engineering Granada, 2017 (PDF)
 
 
