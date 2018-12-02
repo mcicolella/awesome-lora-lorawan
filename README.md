@@ -7,6 +7,7 @@
 ### Table of Contents
 
 - [Libraries](#libraries)
+- [LoRaWAN Servers](#lorawan-servers)
 - [Master Thesis](#master-thesis)
 - [Presentations](#presentations)
 - [Products](#products)
@@ -18,6 +19,11 @@
 - [DeviceHive LoRa gateway](https://github.com/devicehive/lora-gateway) - This project implements LoRa gateway using DeviceHive cloud service
 - [LoRaArduino](https://github.com/lupyuen/LoRaArduino) - Arduino code for connecting to LoRa IoT gateway at Temasek Polytechnic 
 - [RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/) - It provides a complete object-oriented library for sending and receiving packetized messages via a variety of common data radios and other transports on a range of embedded microprocessors
+
+
+## LoRaWAN Servers
+
+- [Compact server for private LoRaWAN networks](https://github.com/gotthardp/lorawan-server) - Open-source LoRaWAN Server that integrates both the network-server and the application-server
 
 
 ## Master Thesis
