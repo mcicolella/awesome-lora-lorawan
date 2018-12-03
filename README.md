@@ -6,12 +6,19 @@
 
 ### Table of Contents
 
+- [Communities](#communities)
 - [Libraries](#libraries)
 - [LoRaWAN Servers](#lorawan-servers)
 - [Master Thesis](#master-thesis)
 - [Presentations](#presentations)
 - [Products](#products)
 - [Tutorials](#tutorials)
+
+
+## Communities
+
+- [OpenLora](https://openlora.com/forum/)
+- [The Things Network](https://www.thethingsnetwork.org/forum/)
 
 
 ## Libraries
