@@ -55,6 +55,7 @@
 
 ## Videos
 
+- [LoRa](https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U) - Many interesting video tutorials about LoRa with Dragino, Raspberry Pi, ESP32 and so on
 - [LoRa/LoRaWAN tutorials](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g) - These video tutorials cover a variety of different topics which will help you to understand LoRa/LoRaWAN
 
 
