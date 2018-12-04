@@ -4,7 +4,7 @@
 
 **Check out my [Twitter account](https://twitter.com/emmecilab) or [blog](https://www.emmecilab.net).**
 
-### Table of Contents
+### Contents
 
 - [Communities](#communities)
 - [Libraries](#libraries)
