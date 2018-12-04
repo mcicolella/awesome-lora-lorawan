@@ -13,6 +13,7 @@
 - [Presentations](#presentations)
 - [Products](#products)
 - [Tutorials](#tutorials)
+- [Videos](#videos)
 
 
 ## Communities
@@ -50,6 +51,12 @@
 - [From zero to LoRaWAN in a weekend](https://github.com/ttn-zh/ic880a-gateway/wiki) - Reference setup for The Things Network gateways based on the iC880a USB concentrator with a Raspberry Pi host
 - [Setting up a The Things Network gateway](https://oisec.net/blog/ttn-gateway-rak831-ic880a) 
 - [Use Lora Shield and RPi to Build a LoRaWAN Gateway](https://www.instructables.com/id/Use-Lora-Shield-and-RPi-to-Build-a-LoRaWAN-Gateway/) 
+
+
+## Videos
+
+- [LoRa/LoRaWAN tutorials](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g) - These video tutorials cover a variety of different topics which will help you to understand LoRa/LoRaWAN
+
 
 ## License
 
