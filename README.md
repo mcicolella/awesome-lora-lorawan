@@ -27,6 +27,7 @@
 - [Arduino example sketches](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino#arduino-example-sketches) - The example sketches, in increasing level of complexity, will show how simple, yet effective, low-cost LoRa IoT device can be programmed
 - [DeviceHive LoRa gateway](https://github.com/devicehive/lora-gateway) - This project implements LoRa gateway using DeviceHive cloud service
 - [LoRaArduino](https://github.com/lupyuen/LoRaArduino) - Arduino code for connecting to LoRa IoT gateway at Temasek Polytechnic 
+- [LoRa Python library](https://github.com/mayeranalytics/pySX127x) -  Python interface to the Semtech SX1276/7/8/9
 - [RadioHead](https://www.airspayce.com/mikem/arduino/RadioHead/) - It provides a complete object-oriented library for sending and receiving packetized messages via a variety of common data radios and other transports on a range of embedded microprocessors
 
 
