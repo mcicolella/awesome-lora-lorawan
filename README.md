@@ -35,7 +35,7 @@
 ## LoRaWAN Servers
 
 - [Compact server for private LoRaWAN networks](https://github.com/gotthardp/lorawan-server) - Open-source LoRaWAN Server that integrates both the network-server and the application-server
--[LoRa Server](https://www.loraserver.io/) - Open-source LoRaWAN network-server
+- [LoRa Server](https://www.loraserver.io/) - Open-source LoRaWAN network-server
 
 
 ## Master Thesis
