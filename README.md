@@ -48,6 +48,9 @@
 
 ## Products
 
+- [Mini Lora Node, Arduino Mini LoraWAN sensor](https://github.com/hallard/Mini-LoRa)
+
+
 ## Tutorials
 
 - [A DIY low-cost LoRa gateway](http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html)
