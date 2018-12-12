@@ -12,6 +12,7 @@
 - [Master Thesis](#master-thesis)
 - [Presentations](#presentations)
 - [Products](#products)
+- [Troubleshooting](#troubleshooting)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
 
@@ -50,6 +51,12 @@
 
 - [ESP-1ch-Gateway](https://github.com/hallard/ESP-1ch-Gateway)
 - [Mini Lora Node, Arduino Mini LoraWAN sensor](https://github.com/hallard/Mini-LoRa)
+
+
+## Troubleshooting
+
+- [TTN  DRAGINO problems and solutions topic part 1](https://www.thethingsnetwork.org/forum/t/dragino-problems-and-solutions-topic-part-1/8951)
+- [TTN  DRAGINO problems and solutions topic part 2](https://www.thethingsnetwork.org/forum/t/dragino-problems-and-solutions-topic-part-2/19143)
 
 
 ## Tutorials
