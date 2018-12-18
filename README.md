@@ -47,6 +47,9 @@
 
 ## Presentations
 
+[IoT Comunitaria - partecipa alla rete (Italian)](https://merge-it.net/talks/iot-comunitaria/slides.pdf) - Nino Ciurleo - Merge-IT Torino, 2018 (PDF)
+
+
 ## Products
 
 - [Dragino LoRa Wireless Mote , Gateway](http://www.dragino.com/products/lora.html)
