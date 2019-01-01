@@ -69,6 +69,7 @@
 
 - [A DIY low-cost LoRa gateway](http://cpham.perso.univ-pau.fr/LORA/RPIgateway.html)
 - [Building a Raspberry Pi Powered LoRaWAN Gateway](https://www.rs-online.com/designspark/building-a-raspberry-pi-powered-lorawan-gateway) - Using a Raspberry Pi 2 + iC880A to build the first gateway for Things Network Calderdale
+- [Building a private LoRa network](https://os.mbed.com/docs/latest/tutorials/LoRa-tutorial.html)
 - [Dragino LoRa shield](http://wiki.dragino.com/index.php?title=Lora_Shield) - Wiki of Dragino LoRa shield
 - [From zero to LoRaWAN in a weekend](https://github.com/ttn-zh/ic880a-gateway/wiki) - Reference setup for The Things Network gateways based on the iC880a USB concentrator with a Raspberry Pi host
 - [LoPy LoRaWAN Nano-Gateway Using MicroPython and TTN](https://www.hackster.io/bucknalla/lopy-lorawan-nano-gateway-using-micropython-and-ttn-a9fb19) - Can't afford an expensive LoRa gateway to test your projects? Use a Pycom LoPy as a nano-gateway and connect up to The Things Network!
