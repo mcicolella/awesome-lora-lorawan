@@ -56,6 +56,7 @@
 - [Dragino LoRa Wireless Mote , Gateway](http://www.dragino.com/products/lora.html)
 - [ESP-1ch-Gateway](https://github.com/hallard/ESP-1ch-Gateway)
 - [iC880A - LoRaWAN® Concentrator 868MHz](https://wireless-solutions.de/products/radiomodules/ic880a.html)
+- [Heltec CubeCell Series](https://heltec.org/proudct_center/lora/cubecell/)
 - [Mini Lora Node, Arduino Mini LoraWAN sensor](https://github.com/hallard/Mini-LoRa)
 - [Pycom LoPy](https://pycom.io/product/lopy4-multipack/)
 
