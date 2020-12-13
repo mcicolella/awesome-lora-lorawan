@@ -64,7 +64,7 @@
 
 ## Tools
 
-[LoRaWAN node simulator](https://github.com/kartben/lorawan-node-simulator)
+- [LoRaWAN node simulator](https://github.com/kartben/lorawan-node-simulator)
 
 
 ## Troubleshooting
