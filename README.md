@@ -3,7 +3,7 @@
 
 > A curated list of LoRa and LoRaWAN resources.
 
-**Check out my [Twitter account](https://twitter.com/emmecilab) or [blog](https://www.emmecilab.net) and subscribe my [YouTube channel](youtube.com/c/emmecilab)**
+**Check out my [Twitter account](https://twitter.com/emmecilab) or [blog](https://www.emmecilab.net) and subscribe my [YouTube channel](https://youtube.com/c/emmecilab)**
 
 ### Contents
 
