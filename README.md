@@ -68,6 +68,8 @@
 
 ## Tools
 
+- [IoT Index compatibility matrix](https://iotindex.io/en/iot-compatibility-matrix/) - Vendor-neutral matrix of which LoRaWAN sensors work with which platforms, the parsers involved and the integration type.
+- [IoT Index payload validator](https://iotindex.io/en/iot-payload-validator/) - Decode LoRaWAN payloads (HEX or JSON) by fPort with published parsers, byte map and warnings.
 - [LoRaWAN node simulator](https://github.com/kartben/lorawan-node-simulator)
 
 
